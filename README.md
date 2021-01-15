@@ -11,21 +11,21 @@ Link para o DS Delivery: https://dsdelivery-sds2-alice.netlify.app/
 
 ##Tecnologias utilizadas
 
-###Back-end
+### Back-end
 
-* Java
-* Spring Boot
-* JPA / Hibernate
-* Maven
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
 
-###Front end
+### Front end
 
-* HTML / CSS / TypeScript
-* ReactJS
-* React Native
+- HTML / CSS / TypeScript
+- ReactJS
+- React Native
 
 ### Implantação em produção
 
-* Back end: Heroku
-* Front end web: Netlify
-* Banco de dados: Postgresql
+- Back end: Heroku
+- Front end web: Netlify
+- Banco de dados: Postgresql
