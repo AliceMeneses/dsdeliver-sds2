@@ -1,4 +1,31 @@
-# dsdeliver-sds2
-Sistema de registro e entrega de pedidos realizado na Semana DevSuperior da DevSuperior
+# Sobre o projeto
+DS Delivery é um sistema de registro e entrega de pedidos realizado na 2° edição da Semana DevSuperior, evento organizado pela DevSuperior.
 
-Link para o sistema criado na Semana DevSuperior: https://dsdelivery-sds2-alice.netlify.app/
+A aplicação web do DS Delivery permite que o cliente selecione os alimentos e informe a localização da entrega do pedido e o app mobile é focado no entregador do pedido, logo, o app informa os pedidos pendentes e inicia o GPS do google maps para o motorista concluir a entrega.
+
+Link para o DS Delivery: https://dsdelivery-sds2-alice.netlify.app/
+
+## Layout da Aplicação web
+
+## Layout da Aplicação mobile
+
+##Tecnologias utilizadas
+
+###Back-end
+
+* Java
+* Spring Boot
+* JPA / Hibernate
+* Maven
+
+###Front end
+
+* HTML / CSS / TypeScript
+* ReactJS
+* React Native
+
+### Implantação em produção
+
+* Back end: Heroku
+* Front end web: Netlify
+* Banco de dados: Postgresql
