@@ -13,7 +13,7 @@ Link para o DS Delivery: https://dsdelivery-sds2-alice.netlify.app/
 ## Layout da aplicação mobile
 
 ![Home da aplicação mobile](https://github.com/AliceMeneses/assets/blob/main/imagens-devsuperior/mobile-home.png)
-![Produtos](https://github.com/AliceMeneses/assets/blob/main/imagens-devsuperior/mobile-produtos.png)
+![Pedidos](https://github.com/AliceMeneses/assets/blob/main/imagens-devsuperior/mobile-pedidos.png)
 ![Entrega produtos](https://github.com/AliceMeneses/assets/blob/main/imagens-devsuperior/mobile-entrega.png)
 
 ## Tecnologias utilizadas
