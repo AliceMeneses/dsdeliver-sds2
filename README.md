@@ -5,11 +5,15 @@ A aplicação web do DS Delivery permite que o cliente selecione os alimentos e 
 
 Link para o DS Delivery: https://dsdelivery-sds2-alice.netlify.app/
 
-## Layout da Aplicação web
+## Layout da aplicação web
 
-## Layout da Aplicação mobile
+## Layout da aplicação mobile
 
-##Tecnologias utilizadas
+## Vídeo da aplicação:
+
+![https://gifs.com/gif/dsdelivey-gZRNW3]
+
+## Tecnologias utilizadas
 
 ### Back-end
 
